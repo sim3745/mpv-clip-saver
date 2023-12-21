@@ -6,7 +6,7 @@ This Lua script for MPV allows you to create video clips with custom start and e
 
 ## Installation
 
-1. Download the `mpv-clip-saver.lua` file and place it in your MPV scripts directory.
+1. Download the `mpv-clip-saver.lua` file and place it to your MPV scripts directory.
 2. Open your MPV configuration file (usually located at `~/.config/mpv/mpv.conf` or `%APPDATA%\mpv\mpv.conf`) and add the following line:
 
 ```lua
